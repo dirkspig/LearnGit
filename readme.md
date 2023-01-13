@@ -10,4 +10,4 @@ in the terminal
 - click ```+``` if you are happy with it
 - write message
 - press commit
-- push/sync
+- push/sync...or publish branch if first one
